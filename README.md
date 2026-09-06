@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Elaina+%E2%9A%A1;Junior+Developer+%E2%80%A2+Tinkerer+%E2%80%A2+Gamer;Exploring+Databases+%26+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0969DA&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Elaina+%E2%9A%A1;Junior+Developer+%E2%80%A2+Tinkerer+%E2%80%A2+Gamer;Exploring+Databases+%26+Backend" alt="Typing SVG" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Elaina2026&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-2ea44f?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Databases-8a2be2?style=flat-square" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=Elaina2026&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-1a7f37?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Databases-8250df?style=flat-square" alt="Focus" />
   </p>
 
 </div>
@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,py,nodejs,express,sqlite,supabase,github&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,py,nodejs,express,sqlite,supabase,github&theme=light" alt="Skill Icons" />
   </a>
 </div>
 
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Turbo%20Database-FF5722?style=for-the-badge&logo=speedtest&logoColor=white" alt="Turbo Database" />
-  <img src="https://img.shields.io/badge/Vanilla%20Database-Engine-4A90E2?style=for-the-badge&logo=databricks&logoColor=white" alt="Vanilla Database" />
+  <img src="https://img.shields.io/badge/Vanilla%20Database-Engine-0969da?style=for-the-badge&logo=databricks&logoColor=white" alt="Vanilla Database" />
 </p>
 
 ---
@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/Elaina2026/VanillaDB">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=VanillaDB&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="VanillaDB" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=VanillaDB&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="VanillaDB" />
   </a>
   <a href="https://github.com/Elaina2026/NexBucket">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=NexBucket&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="NexBucket" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=NexBucket&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="NexBucket" />
   </a>
 </p>
 
@@ -79,11 +79,7 @@
 ### 🐍 Snake Game: Eating Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -91,8 +87,8 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elaina2026&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elaina2026&layout=compact&bg_color=ffffff&title_color=0969da&text_color=1f2328&border_color=d0d7de" alt="Top Languages" />
 </p>
 
 ---
