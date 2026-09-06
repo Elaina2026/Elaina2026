@@ -22,14 +22,13 @@
 
 ---
 
-## 📌 About Me
+## About
 
-I’m a developer who’s just getting started, driven by curiosity and a passion for tinkering with systems from scratch. I enjoy building things that are fast, minimal, and fun to explore.
+I’m a developer who’s just getting started, passionate about tinkering with systems from first principles. Most of my work centers around exploring **database internals**, **vanilla storage engines**, and **high-performance APIs**.
 
-- 💻 **Interests:** Database internals, vanilla storage engines, and high-performance backend APIs.
-- 🎮 **Gaming:** Minecraft (Survival, Modding & Redstone) and Honor of Kings.
-- 🎧 **Vibe:** Coding to Lo-Fi beats, J-Pop, and game soundtracks.
-- 📫 **Contact:** [ariaasamane@gmail.com](mailto:ariaasamane@gmail.com)
+Beyond code, I spend my time building in **Minecraft** (survival, modding & redstone), competing in **Honor of Kings**, and relaxing to music.
+
+Open to discussing databases, software architecture, or collaboration: [`ariaasamane@gmail.com`](mailto:ariaasamane@gmail.com).
 
 ---
 
