@@ -3,9 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0969DA&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Elaina+%E2%9A%A1;Junior+Developer+%E2%80%A2+Tinkerer+%E2%80%A2+Gamer;Exploring+Databases+%26+Backend" alt="Typing SVG" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Elaina2026&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-1a7f37?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Databases-8250df?style=flat-square" alt="Focus" />
+    <a href="https://github.com/Elaina2026/VanillaDB">
+      <img src="https://img.shields.io/badge/Building-VanillaDB-0969da?style=for-the-badge&logo=sqlite&logoColor=white" alt="Building VanillaDB" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Storage-24292f?style=for-the-badge&logo=typescript&logoColor=white" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=Elaina2026&label=Profile%20Views&color=0969da&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
