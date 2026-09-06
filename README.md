@@ -16,12 +16,14 @@
 
 ### 👨‍💻 About Me
 
-> *"I’m a developer who’s just getting started, enjoys tinkering with all kinds of things, playing Minecraft and Honor of Kings, and listening to music."*
+I’m a developer who’s just getting started, enjoys tinkering with all kinds of things, playing Minecraft and Honor of Kings, and listening to music.
 
-- 🎮 **Gaming:** Minecraft (Survival, Modding & Redstone) • Honor of Kings
-- 🎧 **Music:** Lo-Fi, J-Pop & Game Soundtracks
-- ⚡ **Currently Exploring:** Database Internals, Vanilla Storage Engines & High-performance APIs
-- 📬 **Reach Me:** [ariaasamane@gmail.com](mailto:ariaasamane@gmail.com)
+| Category | Focus & Interests |
+| :--- | :--- |
+| 🎮 **Gaming** | Minecraft (Survival, Modding & Redstone) • Honor of Kings |
+| 🎧 **Music** | Lo-Fi, J-Pop & Game Soundtracks |
+| ⚡ **Exploring** | Database internals, Vanilla storage engines & High-performance APIs |
+| 📬 **Reach Me** | [ariaasamane@gmail.com](mailto:ariaasamane@gmail.com) |
 
 ---
 
