@@ -63,10 +63,10 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 <p align="center">
   <a href="https://github.com/Elaina2026/VanillaDB">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=VanillaDB&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="VanillaDB" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=VanillaDB&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de&cache_seconds=0" alt="VanillaDB" />
   </a>
   <a href="https://github.com/Elaina2026/NexBucket">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=NexBucket&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="NexBucket" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=NexBucket&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de&cache_seconds=0" alt="NexBucket" />
   </a>
 </p>
 
