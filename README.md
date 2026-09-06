@@ -1,37 +1,35 @@
-<h1 align="center">Hi there, I'm Elaina ⚡</h1>
-<p align="center">
-  <em>Junior Developer • Tinkerer • Gamer</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elaina2026&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Databases-blueviolet?style=flat-square" alt="Focus" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Elaina+%E2%9A%A1;Junior+Developer+%E2%80%A2+Tinkerer+%E2%80%A2+Gamer;Exploring+Databases+%26+Backend" alt="Typing SVG" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Elaina2026&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-2ea44f?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Databases-8a2be2?style=flat-square" alt="Focus" />
+  </p>
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-```yaml
-summary: "I’m a developer who’s just getting started, enjoys tinkering with all kinds of things, playing Minecraft and Honor of Kings, and listening to music."
-hobbies:
-  - 🎮 Minecraft (Survival, Modding & Redstone)
-  - ⚔️ Honor of Kings
-  - 🎵 Lo-Fi, J-Pop & Game Soundtracks
-currently_exploring: "Database internals, Vanilla Storage Engines & High-performance APIs"
-reach_me: "ariaasamane@gmail.com"
-```
+> *"I’m a developer who’s just getting started, enjoys tinkering with all kinds of things, playing Minecraft and Honor of Kings, and listening to music."*
+
+- 🎮 **Gaming:** Minecraft (Survival, Modding & Redstone) • Honor of Kings
+- 🎧 **Music:** Lo-Fi, J-Pop & Game Soundtracks
+- ⚡ **Currently Exploring:** Database Internals, Vanilla Storage Engines & High-performance APIs
+- 📬 **Reach Me:** [ariaasamane@gmail.com](mailto:ariaasamane@gmail.com)
 
 ---
 
 ### 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,py,nodejs,express,sqlite,supabase,github&theme=dark" alt="Skill Icons" />
   </a>
-</p>
+</div>
 
 <br/>
 
@@ -69,59 +67,36 @@ reach_me: "ariaasamane@gmail.com"
 
 ---
 
-### 🎮 Mini Game: Profile Minesweeper
+### 🐍 Snake Game: Eating Contribution Graph
 
-> **How to play:** Click on the blocks below to reveal safe cells or numbers. Watch out for hidden bombs `💣`!
-
-<table>
-  <tr>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>💣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>0️⃣</details></td>
-    <td><details><summary>🧱</summary>0️⃣</details></td>
-  </tr>
-  <tr>
-    <td><details><summary>🧱</summary>2️⃣</details></td>
-    <td><details><summary>🧱</summary>2️⃣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>0️⃣</details></td>
-    <td><details><summary>🧱</summary>0️⃣</details></td>
-  </tr>
-  <tr>
-    <td><details><summary>🧱</summary>💣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>0️⃣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-  </tr>
-  <tr>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>0️⃣</details></td>
-    <td><details><summary>🧱</summary>1️⃣</details></td>
-    <td><details><summary>🧱</summary>💣</details></td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Elaina2026/Elaina2026/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elaina2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elaina2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Elaina2026&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
 ### 📬 Get in Touch
 
-<p align="center">
+<div align="center">
   <a href="mailto:ariaasamane@gmail.com">
     <img src="https://img.shields.io/badge/Email-ariaasamane%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Elaina2026">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
