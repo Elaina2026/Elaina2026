@@ -58,12 +58,21 @@
 
 ---
 
-### 🔨 Featured Projects (In Development)
+### 🔨 Featured Projects
 
-| Project | Description | Tech Stack | Status |
+<p align="center">
+  <a href="https://github.com/Elaina2026/VanillaDB">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=VanillaDB&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="VanillaDB" />
+  </a>
+  <a href="https://github.com/Elaina2026/NexBucket">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Elaina2026&repo=NexBucket&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="NexBucket" />
+  </a>
+</p>
+
+| Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| ⚡ **VanillaDB-Engine** | Embedded lightweight key-value & document database built from scratch with zero external dependencies. Features write-ahead logging (WAL), in-memory cache indexing, and JSON file persistence. | `TypeScript`, `Node.js`, `Vanilla Storage Engine` | 🟡 *Alpha Testing* |
-| 🎮 **CraftSync-Hub** | A real-time companion bridge connecting Minecraft server events and gaming stats to a cloud dashboard. Provides player telemetry, inventory tracking, and webhook notifications. | `Python`, `Express.js`, `SQLite`, `Supabase` | 🟢 *Active Development* |
+| ⚡ [**VanillaDB**](https://github.com/Elaina2026/VanillaDB) | High-performance, multi-tenant SQLite cloud engine with REST & SQL APIs, live SSE events, AES-256-GCM encryption, and AI vector functions. | `TypeScript`, `Node.js`, `SQLite (WAL)` | 🟢 *Active* |
+| 🤖 [**NexBucket**](https://github.com/Elaina2026/NexBucket) | A unified Discord bot and web dashboard for moderation, tickets, automation, payments, and community monitoring. | `JavaScript`, `Node.js`, `Express.js` | 🟢 *Active* |
 
 ---
 
@@ -81,12 +90,10 @@
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elaina2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Elaina2026&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elaina2026&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+</p>
 
 ---
 
