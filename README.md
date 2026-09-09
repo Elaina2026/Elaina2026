@@ -14,17 +14,17 @@
 
 ---
 
-### <img align="center" src="https://api.iconify.design/lucide:terminal.svg?color=%230969da" width="22" height="22" /> About Me
+### <img align="center" src="https://api.iconify.design/lucide:terminal.svg?color=%230969da" width="16" height="16" /> About Me
 
 I'm a developer who's just getting started, driven by a passion for tinkering with all kinds of software. My main focus is exploring **database internals**, **vanilla storage engines**, and **high-performance APIs**.
 
 When I step away from the terminal, I spend my time building in **Minecraft** (survival, modding & redstone engineering), competing in **Honor of Kings**, and relaxing with music.
 
-<img align="center" src="https://api.iconify.design/lucide:mail.svg?color=%230969da" width="18" height="18" /> **Get in touch:** [ariaasamane@gmail.com](mailto:ariaasamane@gmail.com)
+<img align="center" src="https://api.iconify.design/lucide:mail.svg?color=%230969da" width="14" height="14" /> **Get in touch:** [ariaasamane@gmail.com](mailto:ariaasamane@gmail.com)
 
 ---
 
-### <img align="center" src="https://api.iconify.design/lucide:layers.svg?color=%230969da" width="22" height="22" /> Tech Stack
+### <img align="center" src="https://api.iconify.design/lucide:layers.svg?color=%230969da" width="16" height="16" /> Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 <br/>
 
-#### <img align="center" src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="19" height="19" /> Languages & Frontend
+#### <img align="center" src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="15" height="15" /> Languages & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -42,14 +42,14 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### <img align="center" src="https://api.iconify.design/lucide:server.svg?color=%230969da" width="19" height="19" /> Backend & Runtime
+#### <img align="center" src="https://api.iconify.design/lucide:server.svg?color=%230969da" width="15" height="15" /> Backend & Runtime
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-#### <img align="center" src="https://api.iconify.design/lucide:database.svg?color=%230969da" width="19" height="19" /> Databases & Storage Architecture
+#### <img align="center" src="https://api.iconify.design/lucide:database.svg?color=%230969da" width="15" height="15" /> Databases & Storage Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -59,7 +59,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img align="center" src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="22" height="22" /> Featured Projects
+### <img align="center" src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="16" height="16" /> Featured Projects
 
 <p align="center">
   <a href="https://github.com/Elaina2026/VanillaDB">
@@ -72,12 +72,12 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| <img align="center" src="https://api.iconify.design/lucide:zap.svg?color=%230969da" width="16" height="16" /> [**VanillaDB**](https://github.com/Elaina2026/VanillaDB) | High-performance, multi-tenant SQLite cloud engine with REST & SQL APIs, live SSE events, AES-256-GCM encryption, and AI vector functions. | `TypeScript`, `Node.js`, `SQLite (WAL)` | <img align="center" src="https://api.iconify.design/lucide:activity.svg?color=%230969da" width="15" height="15" /> *Testing Active* |
-| <img align="center" src="https://api.iconify.design/lucide:bot.svg?color=%230969da" width="16" height="16" /> [**NexBucket**](https://github.com/Elaina2026/NexBucket) | A unified Discord bot and web dashboard for moderation, tickets, automation, payments, and community monitoring. | `JavaScript`, `Node.js`, `Express.js` | <img align="center" src="https://api.iconify.design/lucide:check-circle-2.svg?color=%232ea44f" width="15" height="15" /> *Active* |
+| <img align="center" src="https://api.iconify.design/lucide:zap.svg?color=%230969da" width="14" height="14" /> [**VanillaDB**](https://github.com/Elaina2026/VanillaDB) | High-performance, multi-tenant SQLite cloud engine with REST & SQL APIs, live SSE events, AES-256-GCM encryption, and AI vector functions. | `TypeScript`, `Node.js`, `SQLite (WAL)` | <img align="center" src="https://api.iconify.design/lucide:activity.svg?color=%230969da" width="14" height="14" /> *Testing Active* |
+| <img align="center" src="https://api.iconify.design/lucide:bot.svg?color=%230969da" width="14" height="14" /> [**NexBucket**](https://github.com/Elaina2026/NexBucket) | A unified Discord bot and web dashboard for moderation, tickets, automation, payments, and community monitoring. | `JavaScript`, `Node.js`, `Express.js` | <img align="center" src="https://api.iconify.design/lucide:check-circle-2.svg?color=%232ea44f" width="14" height="14" /> *Active* |
 
 ---
 
-### <img align="center" src="https://api.iconify.design/lucide:gamepad-2.svg?color=%230969da" width="22" height="22" /> Snake Game: Eating Contribution Graph
+### <img align="center" src="https://api.iconify.design/lucide:gamepad-2.svg?color=%230969da" width="16" height="16" /> Snake Game: Eating Contribution Graph
 
 <div align="center">
   <picture>
@@ -89,7 +89,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img align="center" src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%230969da" width="22" height="22" /> GitHub Activity & Stats
+### <img align="center" src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%230969da" width="16" height="16" /> GitHub Activity & Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="GitHub Stats" />
@@ -98,7 +98,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img align="center" src="https://api.iconify.design/lucide:send.svg?color=%230969da" width="22" height="22" /> Get in Touch
+### <img align="center" src="https://api.iconify.design/lucide:send.svg?color=%230969da" width="16" height="16" /> Get in Touch
 
 <div align="center">
   <a href="mailto:ariaasamane@gmail.com">
