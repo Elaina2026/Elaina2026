@@ -73,7 +73,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | :zap: [**VanillaDB**](https://github.com/Elaina2026/VanillaDB) | High-performance, multi-tenant SQLite cloud engine with REST & SQL APIs, live SSE events, AES-256-GCM encryption, and AI vector functions. | `TypeScript`, `Node.js`, `SQLite (WAL)` | :large_blue_circle: *Testing Active* |
-| :robot: [**NexBucket**](https://github.com/Elaina2026/NexBucket) | A unified Discord bot and web dashboard for moderation, tickets, automation, payments, and community monitoring. | `JavaScript`, `Node.js`, `Express.js` | :large_green_circle: *Active* |
+| :robot: [**NexBucket**](https://github.com/Elaina2026/NexBucket) | A unified Discord bot and web dashboard for moderation, tickets, automation, payments, and community monitoring. | `JavaScript`, `Node.js`, `Express.js` | :green_circle: *Active* |
 
 ---
 
