@@ -36,6 +36,31 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
   </picture>
 </div>
 
+<br/>
+
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="18" height="18" align="absmiddle" alt="" /> Languages & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TSX%20%2F%20React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="TSX / React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### <img src="https://api.iconify.design/lucide:server.svg?color=%230969da" width="18" height="18" align="absmiddle" alt="" /> Backend & Runtime
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### <img src="https://api.iconify.design/lucide:database.svg?color=%230969da" width="18" height="18" align="absmiddle" alt="" /> Databases & Storage Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Turbo%20Database-FF5722?style=for-the-badge&logo=speedtest&logoColor=white" alt="Turbo Database" />
+  <img src="https://img.shields.io/badge/Vanilla%20Database-Engine-0969da?style=for-the-badge&logo=databricks&logoColor=white" alt="Vanilla Database" />
+</p>
+
 ---
 
 ## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="22" height="22" align="absmiddle" alt="" /> Featured Projects
