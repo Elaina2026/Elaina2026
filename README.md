@@ -59,7 +59,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="20" height="20" align="absmiddle" /> Featured Projects
+### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Featured Projects
 
 <p align="center">
   <a href="https://github.com/Elaina2026/VanillaDB">
@@ -77,7 +77,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%230969da" width="20" height="20" align="absmiddle" /> Snake Game: Eating Contribution Graph
+### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Snake Game: Eating Contribution Graph
 
 <div align="center">
   <picture>
@@ -89,7 +89,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%230969da" width="20" height="20" align="absmiddle" /> GitHub Activity & Stats
+### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%230969da" width="18" height="18" align="absmiddle" /> GitHub Activity & Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="GitHub Stats" />
@@ -98,7 +98,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:send.svg?color=%230969da" width="20" height="20" align="absmiddle" /> Get in Touch
+### <img src="https://api.iconify.design/lucide:send.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Get in Touch
 
 <div align="center">
   <a href="mailto:ariaasamane@gmail.com">
