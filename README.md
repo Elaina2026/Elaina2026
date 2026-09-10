@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%230969da" width="22" height="22" align="absmiddle" /> About Me
+## <img src="https://api.iconify.design/lucide:info.svg?color=%230969da" width="22" height="22" align="absmiddle" /> Overview
 
 I'm a developer who's just getting started, driven by a passion for tinkering with all kinds of software. My main focus is exploring **database internals**, **vanilla storage engines**, and **high-performance APIs**.
 
@@ -24,7 +24,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%230969da" width="22" height="22" align="absmiddle" /> Tech Stack
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%230969da" width="22" height="22" align="absmiddle" /> Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 <br/>
 
-#### <img src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="19" height="19" align="absmiddle" /> Languages & Frontend
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Languages & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -42,14 +42,14 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### <img src="https://api.iconify.design/lucide:server.svg?color=%230969da" width="19" height="19" align="absmiddle" /> Backend & Runtime
+### <img src="https://api.iconify.design/lucide:server.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Backend & Runtime
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-#### <img src="https://api.iconify.design/lucide:database.svg?color=%230969da" width="19" height="19" align="absmiddle" /> Databases & Storage Architecture
+### <img src="https://api.iconify.design/lucide:database.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Databases & Storage Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -59,7 +59,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Featured Projects
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230969da" width="22" height="22" align="absmiddle" /> Featured Projects
 
 <p align="center">
   <a href="https://github.com/Elaina2026/VanillaDB">
@@ -77,7 +77,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Snake Game: Eating Contribution Graph
+## <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%230969da" width="22" height="22" align="absmiddle" /> Snake Game: Eating Contribution Graph
 
 <div align="center">
   <picture>
@@ -89,7 +89,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%230969da" width="18" height="18" align="absmiddle" /> GitHub Activity & Stats
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%230969da" width="22" height="22" align="absmiddle" /> GitHub Activity & Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina2026&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de" alt="GitHub Stats" />
@@ -98,7 +98,7 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ---
 
-### <img src="https://api.iconify.design/lucide:send.svg?color=%230969da" width="18" height="18" align="absmiddle" /> Get in Touch
+## <img src="https://api.iconify.design/lucide:send.svg?color=%230969da" width="22" height="22" align="absmiddle" /> Get in Touch
 
 <div align="center">
   <a href="mailto:ariaasamane@gmail.com">
