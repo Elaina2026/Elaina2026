@@ -28,6 +28,20 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%230969da" width="22" height="22" align="absmiddle" alt="" /> Tech Stack
 
+<p align="center">
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" width="36" height="36" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:javascript.svg" width="36" height="36" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:react.svg" width="36" height="36" alt="React" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:python.svg" width="36" height="36" alt="Python" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="36" height="36" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:express.svg?color=%230969da" width="36" height="36" alt="Express" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:sqlite.svg" width="36" height="36" alt="SQLite" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:supabase-icon.svg" width="36" height="36" alt="Supabase" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:github-icon.svg" width="36" height="36" alt="GitHub" />
+</p>
+
+<br/>
+
 ### <img src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="18" height="18" align="absmiddle" alt="" /> Languages & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
