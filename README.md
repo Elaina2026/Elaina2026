@@ -28,16 +28,6 @@ When I step away from the terminal, I spend my time building in **Minecraft** (s
 
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%230969da" width="22" height="22" align="absmiddle" alt="" /> Tech Stack
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,express,sqlite,supabase,react,py,github&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,express,sqlite,supabase,react,py,github&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,sqlite,supabase,react,py,github&theme=light" alt="Skill Icons" />
-  </picture>
-</div>
-
-<br/>
-
 ### <img src="https://api.iconify.design/lucide:code-2.svg?color=%230969da" width="18" height="18" align="absmiddle" alt="" /> Languages & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
